@@ -184,6 +184,7 @@ header {
   color: black;
   letter-spacing: 1px;
   text-align: center;
+  min-width : 12%;
   transition: all 0.3s linear;
 }
 
